@@ -1,0 +1,6 @@
+streamlit
+pandas
+PuLP>=3,<4
+highspy
+openpyxl
+XlsxWriter
